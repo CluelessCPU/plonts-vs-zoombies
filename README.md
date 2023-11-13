@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://cluelesscpu.github.io/plonts-vs-zoombies-04/](https://cluelesscpu.github.io/plonts-vs-zoombies/)
+> Open this page at [https://cluelesscpu.github.io/plonts-vs-zoombies/](https://cluelesscpu.github.io/plonts-vs-zoombies/)
 
 ## Use as Extension
 
