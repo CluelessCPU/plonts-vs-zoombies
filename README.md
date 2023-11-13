@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://cluelesscpu.github.io/plonts-vs-zoombies-04/](https://cluelesscpu.github.io/plonts-vs-zoombies-04/)
+> Open this page at [https://cluelesscpu.github.io/plonts-vs-zoombies-04/](https://cluelesscpu.github.io/plonts-vs-zoombies/)
 
 ## Use as Extension
 
@@ -10,7 +10,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/cluelesscpu/plonts-vs-zoombies-04** and import
+* search for **https://github.com/cluelesscpu/plonts-vs-zoombies** and import
 
 ## Edit this project ![Build status badge](https://github.com/cluelesscpu/plonts-vs-zoombies-04/workflows/MakeCode/badge.svg)
 
